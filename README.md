@@ -25,3 +25,9 @@ If none name was given in args, the program will wait you type one (optional).
 Just press `Enter` to continue.
 
 Finally, you will see `Hello, [name].` or, if none name was given, `Hello, people.`
+
+## License
+
+This project is licensed under the terms of the WTF Public License.
+
+See [LICENSE](LICENSE) file for more details...
