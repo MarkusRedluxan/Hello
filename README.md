@@ -4,9 +4,9 @@ A simple and friendly **hello message**.
 
 ## Description
 
-This app is a simple Python script to say `Hello, people.`.
+This app is a simple Python script to say `Hello, people.`
 
-It's also possible give a **name**, like `Hello, Kakaroto.`.
+It's also possible give a **name**, like `Hello, Kakaroto.`
 
 ## Requirements:
 
